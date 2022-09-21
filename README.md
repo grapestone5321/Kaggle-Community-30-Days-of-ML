@@ -1,5 +1,7 @@
 # Kaggle-Community-30-Days-of-ML
-Kaggle-Community-30-Days-of-ML
+
+For the final two weeks of the program, you will work on this competition, open only to people who have signed up for the 30 Days of ML program.
+
 
 As part of the program, you will complete three courses: 
 - Python, 
