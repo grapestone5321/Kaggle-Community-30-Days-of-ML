@@ -1,5 +1,8 @@
 # Kaggle-Community-30-Days-of-ML
 
+
+https://www.kaggle.com/competitions/30-days-of-ml
+
 For the final two weeks of the program, you will work on this competition, open only to people who have signed up for the 30 Days of ML program.
 
 
